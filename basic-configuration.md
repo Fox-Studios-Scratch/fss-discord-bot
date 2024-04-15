@@ -4,4 +4,4 @@ This guide will cover everything you need to do to get started with the basics o
 
 - **Prefix**
 
-By default, the FSS responds to ``/`` slash commands.
+> By default, the FSS Discord Bot responds to ``/`` slash commands.
