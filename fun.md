@@ -19,3 +19,4 @@ Below are the entertainment commands.
 | ``/ping`` | Check the bot's latency! |
 | ``/dogpic`` | Get a cute dog picture! |
 | ``/catpic`` | Get a cute picture of a Cat! |
+| ``/tictactoe`` | Play a game of Tic-Tac-Toe with some friends! |
