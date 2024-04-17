@@ -6,7 +6,7 @@ Below are the entertainment commands.
 | --- | --- |
 | ``/coinflip`` | Bet 250 coins on a 50/50 chance of winning double your money, or nothing! |
 | ``/find_who_asked`` | The worlds greatest question... |
-| ``/e`` | Test Command | 
+| ``/e`` | Test Command! | 
 | ``/tax-evasion <#user>`` | Commit tax evasion with a friend! |
 | ``/whois <#user>`` | Learn more about someone! |
 | ``/rps <#option>`` | Play rock-paper-scissors with the bot! |
@@ -21,3 +21,4 @@ Below are the entertainment commands.
 | ``/catpic`` | Get a cute picture of a Cat! |
 | ``/tictactoe`` | Play a game of Tic-Tac-Toe with some friends! |
 | ``/uptime`` | Check the bots' uptime! |
+| ``/botinfo`` | Bot information like ping, and uptime! |
