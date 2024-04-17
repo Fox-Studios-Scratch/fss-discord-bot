@@ -20,3 +20,4 @@ Below are the entertainment commands.
 | ``/dogpic`` | Get a cute dog picture! |
 | ``/catpic`` | Get a cute picture of a Cat! |
 | ``/tictactoe`` | Play a game of Tic-Tac-Toe with some friends! |
+| ``/uptime`` | Check the bots' uptime! |
